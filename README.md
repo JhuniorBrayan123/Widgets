@@ -295,31 +295,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ---
 
-## 👨‍💻 Autor
 
-**Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@ejemplo.com
-
----
-
-## 🙏 Agradecimientos
-
-- [Android Developers](https://developer.android.com/) - Documentación oficial
-- [Jetpack Glance](https://developer.android.com/jetpack/androidx/releases/glance) - Framework de widgets
-- [Material Design 3](https://m3.material.io/) - Guías de diseño
-
----
-
-## 📸 Capturas de Pantalla
-
-### SimpleWidget
-![SimpleWidget](screenshots/simple_widget.png)
-
-### DashboardWidget
-![DashboardWidget](screenshots/dashboard_widget.png)
-
----
 
 ## 📚 Recursos Adicionales
 

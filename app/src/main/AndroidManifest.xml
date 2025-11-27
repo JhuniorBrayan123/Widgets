@@ -22,6 +22,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".WorkActivity"
+            android:exported="false"
+            android:label="Work"
+            android:theme="@style/Theme.Widgets" />
 
         <receiver
             android:name=".SimpleWidget"
